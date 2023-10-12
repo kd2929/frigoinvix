@@ -2,7 +2,7 @@ pyrogram==1.4
 tgcrypto
 requests
 pyromod==1.4
-git+https://github.com/mrinvisible7/yt-dlp.git
+git+https://github.com/kd2929/yt-dlp.git
 aiohttp
 aiofiles
 ffmpeg
