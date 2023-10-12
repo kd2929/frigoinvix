@@ -1,0 +1,11 @@
+pyrogram==1.4
+tgcrypto
+requests
+pyromod==1.4
+git+https://github.com/mrinvisible7/yt-dlp.git
+aiohttp
+aiofiles
+ffmpeg
+ffprobe
+asyncio
+humanize
